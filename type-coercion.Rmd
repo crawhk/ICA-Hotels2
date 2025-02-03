@@ -1,6 +1,6 @@
 ---
 title: "Type coercion"
-author: "YOU"
+author: "Hannah Crawley"
 date: "`r Sys.Date()`"
 output: 
   html_document: 
@@ -12,6 +12,7 @@ output:
 ```{r}
 c(1, 1L, "C")
 ```
+Guess: double, integer, string
 
 ```{r}
 1
